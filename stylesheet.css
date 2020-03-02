@@ -114,3 +114,9 @@ header {
 .fa {
   margin-right: 5px;
 }
+footer{
+  padding:20px,10px;
+  width:100%;
+  height:50px;
+  background-color:#C0C0C0;
+}
